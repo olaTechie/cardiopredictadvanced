@@ -1,0 +1,7 @@
+pillow
+pycaret
+imbalanced-learn==0.13.0
+reportlab
+pyttsx3
+SpeechRecognition
+streamlit-lottie
