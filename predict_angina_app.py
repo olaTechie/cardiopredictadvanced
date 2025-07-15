@@ -2487,7 +2487,7 @@ st.markdown("""
         It should not replace professional medical judgment. Always consult qualified healthcare professionals for patient care.
     </p>
     <p style="color: rgba(255,255,255,0.4); font-size: 0.8rem; margin-top: 1rem;">
-        © 2024 CardioPredict AI | Version 3.0 Enhanced | Build {hashlib.md5(str(datetime.now().date()).encode()).hexdigest()[:8]}
+        © 2024 CardioPredict AI | Version 3.0 Enhanced | Build 1.0
     </p>
 </div>
 """, unsafe_allow_html=True)
